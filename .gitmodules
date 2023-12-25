@@ -2,3 +2,7 @@
 	path = dont-look-now
 	url = https://github.com/soquanchi/interactive-video-grid.git
 	branch = dont-look-now
+[submodule "only-life-in-footsteps"]
+	path = only-life-in-footsteps
+	url = https://github.com/soquanchi/interactive-video-grid.git
+	branch = only-life-in-footsteps
