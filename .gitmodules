@@ -1,4 +1,4 @@
 [submodule "interactive-video-grid"]
-	path = interactive-video-grid
+	path = dont-look-now
 	url = https://github.com/soquanchi/interactive-video-grid.git
 	branch = dont-look-now
