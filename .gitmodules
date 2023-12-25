@@ -1,0 +1,3 @@
+[submodule "only-life-in-footsteps"]
+	path = only-life-in-footsteps
+	url = git@github.com:soquanchi/interactive-video-grid
